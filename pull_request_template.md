@@ -12,7 +12,7 @@
 
 - [ ] Boy Scout Rule: I have left the code cleaner than I found it
 - [ ] DRY (Don't Repeat Yourself) - https://dev.to/phantas0s/the-dry-principle-benefits-and-costs-with-examples-4l3g
-- [ ] KISS (Keep It Simple Stupid) - https://dev.to/kwereutosu/the-k-i-s-s-principle-in-programming-1jfg
+- [ ] Keep It Simple - https://dev.to/kwereutosu/the-k-i-s-s-principle-in-programming-1jfg
 - [ ] SOLID - https://dev.to/sardarmudassaralikhan/solid-principal-using-c-introduction-with-complete-example-gbc
     - Single Responsibility Principle
     - Open-Closed Principle
