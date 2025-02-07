@@ -1,33 +1,35 @@
-# I have reviewed and confirmed the following before approving the changes included in this Pull Request:
+# **Pull Request Review Checklist**  
 
-## General
+Before approving the changes in this Pull Request, I have thoroughly reviewed and confirmed the following:  
 
-- [ ] I have added the work item link
-- [ ] I have a meaningful PR description
-- [ ] I have images for UI layout or styling changes
-- [ ] Code has built successfully locally with no errors or warnings
-- [ ] No code editor warnings are present in modified pages
+## **General**  
 
-## Quality
+- [ ] The associated work item link has been added.  
+- [ ] The Pull Request includes a clear and meaningful description.  
+- [ ] Relevant UI layout or styling changes are accompanied by screenshots.  
+- [ ] The code builds successfully locally without errors or warnings.  
+- [ ] No warnings or issues are present in the modified files within the code editor.  
 
-- [ ] Boy Scout Rule: I have left the code cleaner than I found it
-- [ ] DRY (Don't Repeat Yourself) - https://dev.to/phantas0s/the-dry-principle-benefits-and-costs-with-examples-4l3g
-- [ ] SOLID - https://dev.to/sardarmudassaralikhan/solid-principal-using-c-introduction-with-complete-example-gbc
-    - Single Responsibility Principle
-    - Open-Closed Principle
-    - Liskov Substitution Principle
-    - Interface Segregation Principle
-    - Dependency Inversion Principle
-- [ ] Code is following [BAPS Coding Standards, Conventions, and Guidelines] for:
-    - Naming conventions
-    - Layout conventions
-    - Commenting conventions
-    - Language guidelines
+## **Code Quality & Best Practices**  
 
-## Tests
+- [ ] The code adheres to [BAPS Coding Standards, Conventions, and Guidelines], including:  
+    - Proper naming conventions  
+    - Consistent layout and formatting  
+    - Clear and concise commenting  
+    - Compliance with language-specific best practices  
+- [ ] The **Boy Scout Rule** has been followed—I have left the code cleaner than I found it.  
+- [ ] The **DRY (Don't Repeat Yourself)** principle is upheld – [Learn More](https://dev.to/phantas0s/the-dry-principle-benefits-and-costs-with-examples-4l3g).  
+- [ ] The **SOLID** principles are maintained – [Learn More](https://dev.to/sardarmudassaralikhan/solid-principal-using-c-introduction-with-complete-example-gbc):  
+    - **S**ingle Responsibility Principle  
+    - **O**pen-Closed Principle  
+    - **L**iskov Substitution Principle  
+    - **I**nterface Segregation Principle  
+    - **D**ependency Inversion Principle  
 
-- [ ] Code has gone through developer local testing
-- [ ] New tests add value
-- [ ] Existing tests pass or the now irrelevant tests have been removed
-- [ ] I have added unit or integration tests
-- [ ] I have guarded against false positives or false negatives on new tests
+## **Testing & Verification**  
+
+- [ ] The changes have been tested locally by the developer.  
+- [ ] New tests add value to the codebase.  
+- [ ] Existing tests pass, or obsolete tests have been removed.  
+- [ ] Relevant unit and/or integration tests have been added.  
+- [ ] New tests are designed to minimize false positives and false negatives.
